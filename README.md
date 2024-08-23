@@ -8,7 +8,6 @@
 </head>
 <body>
     <h1>INTELIGENCIA ARTIFICIAL NOCHE</h1>
-    <h1>Dias de la semana</h1> 
     <ul>
         <h2>DESCRIPCION</h2>
         <p>
